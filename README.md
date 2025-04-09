@@ -1,3 +1,7 @@
+
+
+---
+
 ## 🗂️ Structure de ton projet actuel (selon l’image)
 
 ```
@@ -102,3 +106,5 @@ Ce dossier contient le code source de la partie frontend de l’application.
 
 Ouvrir `index.html` avec un navigateur web pour tester l’interface actuelle.
 ```
+
+---
