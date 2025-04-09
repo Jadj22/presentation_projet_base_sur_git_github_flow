@@ -39,32 +39,7 @@ Chaque dossier est associé à une branche dédiée :
 
 ## 👥 Répartition des tâches
 
-### 🔧 Backend (`dev-backend/`)
 
-Deux collaborateurs travaillent sur le backend :
-
-1. **Développeur A**  
-   - Responsable de :  
-     - `models.py`  
-     - `app.py`  
-   - Missions :  
-     - Création des modèles SQLAlchemy (ex: User)
-     - Initialisation de l’application Flask
-
-2. **Développeur B**  
-   - Responsable de :  
-     - `routes.py`  
-     - `config.py`  
-   - Missions :  
-     - Mise en place des routes Flask
-     - Configuration des variables d’environnement, base de données, etc.
-
-### 🧪 Collaboration backend
-- Chaque feature doit être développée dans une **branche feature** depuis `dev-backend`
-- Une **Pull Request** (PR) est soumise pour chaque fonctionnalité
-- Les deux développeurs relisent les PRs ensemble, testent et fusionnent
-
----
 
 ### 🎨 Frontend (`dev-frontend/`)
 
