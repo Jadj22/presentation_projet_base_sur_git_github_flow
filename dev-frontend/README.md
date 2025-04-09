@@ -48,9 +48,9 @@ Deux autres collaborateurs travaillent sur le frontend :
 1. **Développeur C**  
    - Initie le projet avec :
      ```bash
-     npx create-expo-app@latest
+     npx create-expo-app@latest .
      ```
-   - S’assure d’être sur la branche `dev-frontend`
+   - S’assure d’être sur la branche `dev-frontend` et dans le bon repertoire. Il ya un point a la fin de la commande et c'est a considé pour creer le projet dans le repertoire courant
 
 2. **Développeur D**  
    - Partage le travail d’interface, navigation et intégration
